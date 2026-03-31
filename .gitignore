@@ -1,1 +1,8 @@
 /target
+**/*.rs.bk
+*.swp
+.DS_Store
+.env
+*.log
+*.pcap
+perf.data*
