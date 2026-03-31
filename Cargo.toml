@@ -8,3 +8,7 @@ serde = { version = "1.0", features = ["derive"] }
 
 [dev-dependencies]
 proptest = "1.4"
+
+[[bin]]
+name = "simbaledger"
+path = "src/main.rs"
